@@ -1,0 +1,7 @@
+cat
+dog
+animal
+bread
+boat
+sail
+peaches
